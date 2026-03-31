@@ -25,13 +25,11 @@ The main goals of this project are:
 - Track monthly sales trends
 - Classify sales performance using business rules
 
----
 
 ## 🛠 Tools Used
 - SQL
 - GitHub
 
----
 
 ## 🧠 SQL Skills Demonstrated
 This project demonstrates the following SQL skills:
@@ -47,12 +45,13 @@ This project demonstrates the following SQL skills:
 - Date-based analysis
 - Business-focused querying
 
----
+
 
 ## 📂 Files Included
 - `queries.sql` — SQL queries used to analyze the sales dataset
+- `sales.csv`
 
----
+
 
 ## 💼 Business Value
 This project helps answer important business questions such as:
@@ -66,6 +65,8 @@ This project helps answer important business questions such as:
 These insights can support better business decisions in sales, marketing, and operations.
 
 This query identifies the top-performing products based on total sales.
+
+
 ## 📊 Sample Query Output
 
 Example: Top 5 products by total sales
@@ -101,7 +102,7 @@ Possible next steps for this project include:
 - A small number of products generate most of the revenue
 - Sales are concentrated in a few categories
 - Opportunity to optimize underperforming products
----
+
 
 ## 📌 Notes
 This project is part of my Data Analyst portfolio and focuses on using SQL to solve business problems through data analysis.
