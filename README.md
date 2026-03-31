@@ -11,9 +11,9 @@ This project includes a sample dataset (`sales.csv`) that can be used to run and
 
 ## ▶️ How to Use
 
-1. Create a table named `sales` in your SQL environment.
-2. Import the data from `sales.csv`.
-3. Run the queries in `queries.sql` to analyze sales performance.
+1. Import the `sales.csv` file into your SQL environment.
+2. Create a table named `sales`.
+3. Run the queries from `queries.sql`.
 
 ## 🎯 Project Objectives
 The main goals of this project are:
