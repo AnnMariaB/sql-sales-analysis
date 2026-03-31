@@ -65,6 +65,15 @@ This project helps answer important business questions such as:
 
 These insights can support better business decisions in sales, marketing, and operations.
 
+## 📊 Sample Query Output
+
+Example: Top 5 products by total sales
+
+| Product Name | Total Sales |
+|-------------|------------|
+| Laptop      | 2500       |
+| Phone       | 1700       |
+| Desk        | 650        |
 ---
 
 ## 🚀 Future Improvements
