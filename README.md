@@ -75,6 +75,15 @@ Example: Top 5 products by total sales
 | Laptop      | 2500       |
 | Phone       | 1700       |
 | Desk        | 650        |
+
+## 🧪 Example Query
+
+-- Top 5 products by total sales
+SELECT product_name, SUM(sales_amount) AS total_sales
+FROM sales
+GROUP BY product_name
+ORDER BY total_sales DESC
+LIMIT 5;
 ---
 
 ## 🚀 Future Improvements
