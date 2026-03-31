@@ -65,6 +65,7 @@ This project helps answer important business questions such as:
 
 These insights can support better business decisions in sales, marketing, and operations.
 
+This query identifies the top-performing products based on total sales.
 ## 📊 Sample Query Output
 
 Example: Top 5 products by total sales
