@@ -96,6 +96,11 @@ Possible next steps for this project include:
 - Connecting the SQL output to a Power BI dashboard
 - Using a larger real-world dataset
 
+## 💡 Key Insights
+
+- A small number of products generate most of the revenue
+- Sales are concentrated in a few categories
+- Opportunity to optimize underperforming products
 ---
 
 ## 📌 Notes
