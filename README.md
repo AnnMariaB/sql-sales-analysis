@@ -5,6 +5,9 @@ This project explores sales data using SQL queries to extract useful business in
 
 The analysis focuses on identifying top-performing products, understanding customer behavior, comparing regional performance, and tracking sales trends over time.
 
+## 📁 Dataset
+
+This project includes a sample dataset (`sales.csv`) that can be used to run and test the SQL queries.
 ---
 
 ## 🎯 Project Objectives
