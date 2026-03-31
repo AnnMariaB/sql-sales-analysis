@@ -8,7 +8,12 @@ The analysis focuses on identifying top-performing products, understanding custo
 ## 📁 Dataset
 
 This project includes a sample dataset (`sales.csv`) that can be used to run and test the SQL queries.
----
+
+## ▶️ How to Use
+
+1. Create a table named `sales` in your SQL environment.
+2. Import the data from `sales.csv`.
+3. Run the queries in `queries.sql` to analyze sales performance.
 
 ## 🎯 Project Objectives
 The main goals of this project are:
