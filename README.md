@@ -1,5 +1,7 @@
 # Sales Analysis with SQL
 
+A beginner-friendly SQL project focused on analyzing sales data and extracting actionable business insights.
+
 ## 📊 Project Overview
 This project explores sales data using SQL queries to extract useful business insights and support data-driven decision-making.
 
